@@ -1,4 +1,4 @@
-# Treasury Factor Strategy
+# Macro Volatility Driven Treasury Trading Strategy
 
 This project models the U.S. Treasury yield curve, forecasts its dynamics, and implements a simple systematic trading strategy in Treasury futures. It combines PCA factor modeling, Kalman filtering, and GARCH volatility forecasting with a backtesting framework.
 
